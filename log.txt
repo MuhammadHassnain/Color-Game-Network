@@ -1,0 +1,226 @@
+Player in game:2
+Deck in game:1
+Deck 1 has been added to game!
+
+
+
+------Shuffled Pile--------
+
+[3, Club, Three][9, Diamond, Nine][3, Diamond, Three][9, Spades, Nine][4, Diamond, Four][6, Club, Six][2, Diamond, Two][7, Club, Seven][Ace, Spades, Ace][3, Spades, Three][King, Club, King][Queen, Club, Queen][8, Diamond, Eight][2, Hearts, Two][Ace, Hearts, Ace][5, Spades, Five][8, Hearts, Eight][4, Hearts, Four][3, Hearts, Three][4, Spades, Four][8, Club, Eight][Queen, Diamond, Queen][8, Spades, Eight][10, Club, Ten][6, Diamond, Six][King, Spades, King][Queen, Hearts, Queen][Jack, Club, Jack][9, Hearts, Nine][Ace, Club, Ace][4, Club, Four][Jack, Hearts, Jack][Jack, Diamond, Jack][7, Spades, Seven][10, Diamond, Ten][5, Club, Five][9, Club, Nine][10, Spades, Ten][2, Spades, Two][6, Hearts, Six][2, Club, Two][King, Diamond, King][Jack, Spades, Jack][Ace, Diamond, Ace][5, Diamond, Five][Queen, Spades, Queen][7, Diamond, Seven][7, Hearts, Seven][10, Hearts, Ten][5, Hearts, Five][6, Spades, Six][King, Hearts, King]
+
+
+---Setting color of game---
+
+
+
+Player:Hasdssnain has received:[3, Club, Three]Player:Hasdssnain has received:[9, Diamond, Nine]Player:Hasdssnain has received:[3, Diamond, Three]Player:Hasdssnain has received:[9, Spades, Nine]Player:Hasdssnain has received:[4, Diamond, Four]Player:Hasdssnain has received:[6, Club, Six]Player:Hasdssnain has received:[2, Diamond, Two]Player:Hasdssnain has received:[7, Club, Seven]Player:Hasdssnain has received:[Ace, Spades, Ace]Player:Hasdssnain has received:[3, Spades, Three]Player:Hasdssnain has received:[King, Club, King]Player:Hasdssnain has received:[Queen, Club, Queen]Player:Hasdssnain has received:[8, Diamond, Eight]Player:Hasdssnain has received:[2, Hearts, Two]Player:Hasdssnain has received:[Ace, Hearts, Ace]Player:Hasdssnain has received:[5, Spades, Five]Player:Hasdssnain has received:[8, Hearts, Eight]Player:Hasdssnain has received:[4, Hearts, Four]Player:Hasdssnain has received:[3, Hearts, Three]Player:Hasdssnain has received:[4, Spades, Four]Player:Hasdssnain has received:[8, Club, Eight]Player:Hasdssnain has received:[Queen, Diamond, Queen]Player:Hasdssnain has received:[8, Spades, Eight]Player:Hasdssnain has received:[10, Club, Ten]Player:Hasdssnain has received:[6, Diamond, Six]Player:Hasdssnain has received:[King, Spades, King]Player:Hasdssnain has received:[Queen, Hearts, Queen]Player:Hasdssnain has received:[Jack, Club, Jack]
+
+Player:Hasdssnain setting game color to :Hearts
+
+
+---Again Shuffling Card---
+
+[5, Spades, Five]
+[4, Club, Four]
+[6, Club, Six]
+[2, Diamond, Two]
+[10, Diamond, Ten]
+[10, Spades, Ten]
+[Queen, Club, Queen]
+[7, Hearts, Seven]
+[King, Club, King]
+[3, Diamond, Three]
+[6, Spades, Six]
+[9, Hearts, Nine]
+[4, Diamond, Four]
+[Queen, Hearts, Queen]
+[2, Club, Two]
+[9, Diamond, Nine]
+[2, Hearts, Two]
+[10, Club, Ten]
+[3, Spades, Three]
+[King, Diamond, King]
+[8, Club, Eight]
+[Jack, Spades, Jack]
+[4, Spades, Four]
+[Jack, Diamond, Jack]
+[Ace, Club, Ace]
+[7, Diamond, Seven]
+[10, Hearts, Ten]
+[6, Diamond, Six]
+[Queen, Diamond, Queen]
+[Queen, Spades, Queen]
+[King, Hearts, King]
+[King, Spades, King]
+[Ace, Diamond, Ace]
+[Ace, Spades, Ace]
+[5, Diamond, Five]
+[9, Spades, Nine]
+[8, Spades, Eight]
+[5, Club, Five]
+[8, Hearts, Eight]
+[Jack, Club, Jack]
+[3, Club, Three]
+[8, Diamond, Eight]
+[6, Hearts, Six]
+[2, Spades, Two]
+[Jack, Hearts, Jack]
+[7, Club, Seven]
+[9, Club, Nine]
+[7, Spades, Seven]
+[4, Hearts, Four]
+[5, Hearts, Five]
+[Ace, Hearts, Ace]
+[3, Hearts, Three]
+
+
+
+---Making Players hand empty---
+
+
+Make hand empty of Player:Hasdssnain
+Make hand empty of Player:Hasdssnain
+
+
+
+Again Distributing Card----
+
+
+Player:Hasdssnain has received:[5, Spades, Five]
+Player:Hasdssnain has received:[4, Club, Four]
+Player:Hasdssnain has received:[6, Club, Six]
+Player:Hasdssnain has received:[2, Diamond, Two]
+Player:Hasdssnain has received:[10, Diamond, Ten]
+Player:Hasdssnain has received:[10, Spades, Ten]
+Player:Hasdssnain has received:[Queen, Club, Queen]
+Player:Hasdssnain has received:[7, Hearts, Seven]
+Player:Hasdssnain has received:[King, Club, King]
+Player:Hasdssnain has received:[3, Diamond, Three]
+Player:Hasdssnain has received:[6, Spades, Six]
+Player:Hasdssnain has received:[9, Hearts, Nine]
+Player:Hasdssnain has received:[4, Diamond, Four]
+Player:Hasdssnain has received:[Queen, Hearts, Queen]
+Player:Hasdssnain has received:[2, Club, Two]
+Player:Hasdssnain has received:[9, Diamond, Nine]
+Player:Hasdssnain has received:[2, Hearts, Two]
+Player:Hasdssnain has received:[10, Club, Ten]
+Player:Hasdssnain has received:[3, Spades, Three]
+Player:Hasdssnain has received:[King, Diamond, King]
+Player:Hasdssnain has received:[8, Club, Eight]
+Player:Hasdssnain has received:[Jack, Spades, Jack]
+Player:Hasdssnain has received:[4, Spades, Four]
+Player:Hasdssnain has received:[Jack, Diamond, Jack]
+Player:Hasdssnain has received:[Ace, Club, Ace]
+Player:Hasdssnain has received:[7, Diamond, Seven]
+Player:Hasdssnain has received:[10, Hearts, Ten]
+Player:Hasdssnain has received:[6, Diamond, Six]
+Player:Hasdssnain has received:[Queen, Diamond, Queen]
+Player:Hasdssnain has received:[Queen, Spades, Queen]
+Player:Hasdssnain has received:[King, Hearts, King]
+Player:Hasdssnain has received:[King, Spades, King]
+Player:Hasdssnain has received:[Ace, Diamond, Ace]
+Player:Hasdssnain has received:[Ace, Spades, Ace]
+Player:Hasdssnain has received:[5, Diamond, Five]
+Player:Hasdssnain has received:[9, Spades, Nine]
+Player:Hasdssnain has received:[8, Spades, Eight]
+Player:Hasdssnain has received:[5, Club, Five]
+Player:Hasdssnain has received:[8, Hearts, Eight]
+Player:Hasdssnain has received:[Jack, Club, Jack]
+Player:Hasdssnain has received:[3, Club, Three]
+Player:Hasdssnain has received:[8, Diamond, Eight]
+Player:Hasdssnain has received:[6, Hearts, Six]
+Player:Hasdssnain has received:[2, Spades, Two]
+Player:Hasdssnain has received:[Jack, Hearts, Jack]
+Player:Hasdssnain has received:[7, Club, Seven]
+Player:Hasdssnain has received:[9, Club, Nine]
+Player:Hasdssnain has received:[7, Spades, Seven]
+Player:Hasdssnain has received:[4, Hearts, Four]
+Player:Hasdssnain has received:[5, Hearts, Five]
+Player:Hasdssnain has received:[Ace, Hearts, Ace]
+Player:Hasdssnain has received:[3, Hearts, Three]
+
+
+
+Hasdssnain Turn---
+
+
+Hasdssnain Dump Following Card(s) in open pile----
+[5, Spades, Five]
+[6, Club, Six]
+[10, Diamond, Ten]
+[Queen, Club, Queen]
+[King, Club, King]
+
+
+
+Hasdssnain Turn---
+
+
+Hasdssnain Dump Following Card(s) in open pile----
+[4, Club, Four]
+[2, Diamond, Two]
+[10, Spades, Ten]
+[7, Hearts, Seven]
+[3, Diamond, Three]
+
+
+---Hasdssnain replacing card in open pile---
+
+[5, Spades, Five] replaced with [5, Hearts, Five]
+[10, Diamond, Ten] replaced with [5, Spades, Five]
+
+
+---Hasdssnain replacing card in open pile---
+
+[7, Hearts, Seven] replaced with [10, Diamond, Ten]
+[4, Club, Four] replaced with [10, Club, Ten]
+Hasdssnain Showing Hand---
+
+[6, Club, Six]
+[King, Club, King]
+[6, Spades, Six]
+[4, Diamond, Four]
+[2, Club, Two]
+[2, Hearts, Two]
+[3, Spades, Three]
+[4, Spades, Four]
+[Ace, Club, Ace]
+[10, Hearts, Ten]
+[Queen, Diamond, Queen]
+[King, Hearts, King]
+[Ace, Diamond, Ace]
+[5, Diamond, Five]
+[6, Hearts, Six]
+[Jack, Hearts, Jack]
+[9, Club, Nine]
+[4, Hearts, Four]
+[Ace, Hearts, Ace]
+[5, Hearts, Five]
+[5, Spades, Five]
+
+
+Hasdssnain Showing Hand---
+
+[2, Diamond, Two]
+[10, Spades, Ten]
+[3, Diamond, Three]
+[9, Hearts, Nine]
+[Queen, Hearts, Queen]
+[9, Diamond, Nine]
+[King, Diamond, King]
+[Jack, Spades, Jack]
+[Jack, Diamond, Jack]
+[6, Diamond, Six]
+[Queen, Spades, Queen]
+[Ace, Spades, Ace]
+[9, Spades, Nine]
+[5, Club, Five]
+[Jack, Club, Jack]
+[8, Diamond, Eight]
+[2, Spades, Two]
+[7, Club, Seven]
+[3, Hearts, Three]
+[10, Diamond, Ten]
+[10, Club, Ten]
+
+

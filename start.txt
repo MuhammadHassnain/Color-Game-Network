@@ -1,0 +1,2 @@
+nplayer,ndeck,p1,p2,p3
+3,2,ali,usman,raqeeb
